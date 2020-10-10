@@ -1,9 +1,6 @@
 # Tiny Smart Door
 
-The Tiny Smart Door project represents an automated door.
-The door is opened by sensors and can also be accessed with an app.
-
-[Private Cloud](https://bernerfachhochschule-my.sharepoint.com/:f:/g/personal/mullk8_bfh_ch/EjBKoVGfGOpMhRxXZtkxHgQBEisxrykcIBvCzPZZv-Go-g)
+This project demonstrates a possible implementation of a smart door, which can be opened and closed remotely. It uses tinkerforge devices and MQTT to communicate between them.
 
 ## Services
 
