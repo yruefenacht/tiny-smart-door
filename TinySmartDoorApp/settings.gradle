@@ -1,0 +1,2 @@
+rootProject.name='TinySmartDoorApp'
+include ':app'
